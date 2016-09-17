@@ -10,7 +10,7 @@ In this lesson we'll work with protocols and explore the problems that they help
 
 ## Learning Objectives
 
-* Create a protocol and explain its relationship ro classes
+* Create a protocol and explain its relationship to classes
 * Use functions in protocols 
 
 ## Classes
